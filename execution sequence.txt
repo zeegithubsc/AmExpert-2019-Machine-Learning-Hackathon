@@ -1,0 +1,3 @@
+First execute 022-amexp-2019-trans-agg
+
+then 032-amexp-2019.ipynb
