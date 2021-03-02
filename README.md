@@ -50,5 +50,5 @@ Campaign features -
 Customer demographics features
 Coupon features
 
-CV Strategy - Stratified K-Fold cross validation oncampaign_type
+CV Strategy - Stratified K-Fold cross validation on campaign_type
 
