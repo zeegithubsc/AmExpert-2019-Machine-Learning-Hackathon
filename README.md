@@ -39,3 +39,16 @@ The data available in this problem contains the following information, including
 * Previous transactions
 * Based on previous transaction & performance data from the last 18 campaigns, predict the probability for the next 10 campaigns in the test set for each coupon and customer combination, whether the customer will redeem the coupon or not?
 
+## Rank 89 Solution
+
+Public Score: 0.9068046954 Private Score: 0.8972701260
+
+Below features were used:
+
+Customer aggregated features - Statiscal features for customer transaction and redemption propensity
+Campaign features - 
+Customer demographics features
+Coupon features
+
+CV Strategy - Stratified K-Fold cross validation oncampaign_type
+
